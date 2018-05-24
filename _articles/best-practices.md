@@ -19,12 +19,12 @@ related:
 
 ## What does it mean to be a maintainer?
 
-If you maintain an open source project that a lot of people use, you may have noticed you're coding less and responding to issues more.
+আপনি যদি একটি ওপেন সোর্স প্রজেক্ট বজায় রাখেন যা অনেক লোক ব্যবহার করে থাকে, তাহলে আপনি লক্ষ্য করেছেন যে আপনি কম কোডিং করছেন এবং আরও সমস্যাগুলির উত্তর দিচ্ছেন।
 
-In the early stages of a project, you're experimenting with new ideas and making decisions based on what you want. As your project increases in popularity, you'll find yourself working with your users and contributors more.
+একটি প্রকল্পের প্রাথমিক পর্যায়ে, আপনি নতুন ধারণা এবং আপনি কি চান উপর ভিত্তি করে সিদ্ধান্ত নিতে সঙ্গে পরীক্ষা করছেন। আপনার প্রোডাক্টটি জনপ্রিয়তা বৃদ্ধি করে, আপনি আপনার ব্যবহারকারী এবং অবদানকারীর সাথে আরও বেশি কাজ করবেন।
 
-Maintaining a project requires more than code. These tasks are often unexpected, but they're just as important to a growing project. We've gathered a few ways to make your life easier, from documenting processes to leveraging your community.
-
+একটি প্রকল্প বজায় রাখার চেয়ে কোডের বেশি প্রয়োজন। এই কর্মগুলি প্রায়ই অপ্রত্যাশিত হয়, কিন্তু তারা ক্রমবর্ধমান প্রজেক্টের জন্যও গুরুত্বপূর্ণ। 
+আমরা আপনার সম্প্রদায়কে লিভারেজ করার প্রক্রিয়াগুলি নথিভুক্ত করার থেকে আপনার জীবনকে সহজতর করার জন্য কয়েকটি উপায় সংগ্রহ করেছি।
 ## Documenting your processes
 
 Writing things down is one of the most important things you can do as a maintainer.
